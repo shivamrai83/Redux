@@ -1,0 +1,1 @@
+export {buyCake,buyIcecream} from './cake/cakeAction'
